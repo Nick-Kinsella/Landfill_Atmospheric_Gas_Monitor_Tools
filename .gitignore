@@ -22,3 +22,11 @@ Sentinel 2 Multi-Band-Multi-Pass/Sentinel-2_truecolourMBMP.GTiff
 Sentinel-5P_Spain.GTiff.aux.xml
 /Editing files for how to guide
 s2_ch4_code_share.zip
+downloads/Sentinel-5P_Landfill_daily_20250825_181017.nc
+/s5p_daily_0p2deg
+/Varon methane detection code
+winds.csv
+wrpm_oversampled_0p01deg.tif
+wrpm_oversampled_0p01deg_best.tif
+oversampled_unrotated_0p01deg.tif
+Gantt_Chart.ipynb

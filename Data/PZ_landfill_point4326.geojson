@@ -27,6 +27,7 @@
 { "type": "Feature", "properties": { "Landfill": "VILLARRASA_UTE TRATAMIENTO HUELVA", "Lat": 37.45122985, "Long": -6.639727806 }, "geometry": { "type": "Point", "coordinates": [ -6.639727806, 37.45122985 ] } },
 { "type": "Feature", "properties": { "Landfill": "PIEDRA NEGRA", "Lat": 38.49118471, "Long": -0.490177855 }, "geometry": { "type": "Point", "coordinates": [ -0.490177855, 38.49118471 ] } },
 { "type": "Feature", "properties": { "Landfill": "Algeria Plume", "Lat": 31.6584646, "Long": 5.9053647 }, "geometry": { "type": "Point", "coordinates": [ 5.905367118075594, 31.658480317491367 ] } },
-{ "type": "Feature", "properties": { "Landfill": "PINTO LANDFILL (NOT PREZERO)", "Lat": 40.260673916790971, "Long": -3.6408612249728498 }, "geometry": { "type": "Point", "coordinates": [ -3.632832093739266, 40.264571825593741 ] } }
+{ "type": "Feature", "properties": { "Landfill": "PINTO LANDFILL (NOT PREZERO)", "Lat": 40.260673916790971, "Long": -3.6408612249728498 }, "geometry": { "type": "Point", "coordinates": [ -3.632832093739266, 40.264571825593741 ] } },
+{ "type": "Feature", "properties": { "Landfill": "Buenos Aries", "Lat": -34.52935, "Long": -58.61862 }, "geometry": { "type": "Point", "coordinates": [ -58.617563928356041, -34.527209826270365 ] } }
 ]
 }
